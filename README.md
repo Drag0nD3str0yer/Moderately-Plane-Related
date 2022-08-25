@@ -1,6 +1,6 @@
-# Specialized Aircraft Expansion
+# Moderately Plane Related (MPR)
 
- Specialized Aircraft Expansion contains high quality parts consistent with the AirplanePlus art style, and incorporates BDA+ integration for use in BDArmory dogfighter competitions such as Runway Project and Fighter Jet Round Table
+ Moderately Plane Related contains high quality parts consistent with the AirplanePlus art style, and incorporates BDA+ integration for use in BDArmory dogfighter competitions such as Runway Project and Fighter Jet Round Table
  
  ## Purpose
  
@@ -9,7 +9,7 @@
  ## Plans
  
  ### Current Trajectory
- All current parts that exist in the private beta builds of AirplanePlus will be migrated over to this mod, and any new content will be added to the expansion pack rather than the base mod unless the part is deemed useful enough to be incorporated into the main AirplanePlus. 
+ All current parts that exist in the private beta build of AirplanePlus will be migrated over to this mod. 
 
  
  ## Contributors from the Community
