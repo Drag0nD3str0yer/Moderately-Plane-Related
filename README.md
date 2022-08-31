@@ -1,4 +1,4 @@
-![GHu](https://user-images.githubusercontent.com/65526598/187791331-34f13cb9-277b-430e-bf01-ca6f2055be4c.jpg)
+![GHu](https://user-images.githubusercontent.com/65526598/187793519-2bc6af3d-4b2a-41b7-9e63-8d7b91862c61.png)
 # Moderately Plane Related (MPR)
 
  Moderately Plane Related contains high quality parts consistent with the AirplanePlus art style, and incorporates BDA+ integration for use in BDArmory dogfighter competitions such as Runway Project and Fighter Jet Round Table
