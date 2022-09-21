@@ -4,7 +4,6 @@
  Moderately Plane Related contains high quality parts consistent with the AirplanePlus art style, and incorporates BDA+ integration for use in BDArmory dogfighter competitions such as Runway Project and Fighter Jet Round Table
  
 ## Dependencies:
- * Firespitter
  * B9 Part Switch
  
  Will Be moving all remaining parts using Firespitter over to B9 Part Switch, in order to remove Firespitter as a Dependency
